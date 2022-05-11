@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Anthony merida on 5/11/22.
+  
+*/
+
+//Alert
+"listScren.alert.generic.title.error" = "Opps..";
+"listScren.alert.generic.action.title.button" = "OK";
+
+//ListScreen
+"listScren.title.navigation" = "Search city or country";
+"listScren.alert.defaul.message.error" = "we were unable to process your request";
+"listScreen.alert.empty.results" = "No results found.";
+
+//DetailList
+"detailList.title.label" = "Now in";
+"detailList.humedad.title.label" = "humidity";
+"detailList.viento.title.label" = "wind";
+"detailList.add.favorite.button.title" = "Mark as favorite";
+"detailList.remove.favorite.button.title" = "remove from favorites";
+"detailList.alert.message.error" = "could not get the requested item";
